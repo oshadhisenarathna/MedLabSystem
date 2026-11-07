@@ -331,11 +331,7 @@ The following items are not complete yet:
 
 ---
 
-## 📄 License
 
-Distributed under the MIT License. Add a `LICENSE` file to the repository, or replace this section with the license you prefer.
-
----
 
 <div align="center">
 
